@@ -1,5 +1,4 @@
-# OpenEnded
-Policemen Catches Thieves
+# OpenEnded Policemen Catches Thieves 
 
 
 import java.util.ArrayList;
